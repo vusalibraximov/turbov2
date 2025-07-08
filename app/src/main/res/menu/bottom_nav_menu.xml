@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/home_button"
+        android:title="ƏSAS" />
+
+    <item
+        android:id="@+id/navigation_liked"
+        android:icon="@drawable/like"
+        android:title="SEÇİLMİŞLƏR" />
+
+    <item
+        android:id="@+id/navigation_add_new"
+        android:icon="@drawable/add_btn"
+    android:title="YENİ ELAN" />
+
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/user"
+        android:title="KABİNET" />
+
+    <item
+        android:id="@+id/navigation_parameters"
+        android:icon="@drawable/hamburger_menu"
+        android:title="DAHA ÇOX" />
+</menu>
