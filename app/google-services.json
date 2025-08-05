@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "591806591033",
+    "project_id": "turbov2-78ad7",
+    "storage_bucket": "turbov2-78ad7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591806591033:android:fd14773b81b6d8b636dde8",
+        "android_client_info": {
+          "package_name": "com.example.turbov2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADlHDC8pgm_MKxnPiO66rHK0yMtI1Lxkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
