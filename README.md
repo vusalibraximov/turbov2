@@ -13,7 +13,11 @@ TurboV2 – bu, sadəcə bir tətbiq deyil. Bu, **Android ekosistemində real d�
 - 🌐 **Navigasiya sistemi:** Jetpack Navigation Component ilə dinamik keçidlər
 - 💡 **DataBinding & ViewBinding:** UI və data arasında təmiz və təhlükəsiz əlaqə
 - 🧠 **MVVM + Repository pattern:** Ölçülə bilən və test edilə bilən kod strukturu
-
+- ☁️ **Firebase Firestore** ilə real-time elan saxlanması
+- 🖼 **Şəkil yükləmə** funksiyası (Firebase Storage)
+- 🔔 **Push bildirişlər** (Firebase Messaging)
+- 🧭 **Dinamik filtr və axtarış**
+- 🌙 **Dark Mode dəstəyi**
 ---
 
 ## ⚙️ İstifadə olunan texnologiyalar
@@ -30,13 +34,6 @@ TurboV2 – bu, sadəcə bir tətbiq deyil. Bu, **Android ekosistemində real d�
 
 ---
 
-## 🚀 Gələcəkdə planlaşdırılan yeniliklər
-
-- ☁️ **Firebase Firestore** ilə real-time elan saxlanması
-- 🖼 **Şəkil yükləmə** funksiyası (Firebase Storage)
-- 🔔 **Push bildirişlər** (Firebase Messaging)
-- 🧭 **Dinamik filtr və axtarış**
-- 🌙 **Dark Mode dəstəyi**
 
 
 
