@@ -4,12 +4,6 @@ TurboV2 – bu, sadəcə bir tətbiq deyil. Bu, **Android ekosistemində real d�
 
 ---
 
-## 🌟 Layihənin Vizyonu
-
-Texnologiya sadə olmalıdır – istifadəçi üçün olduğu qədər developer üçün də. TurboV2 layihəsi, **Kotlin dili və Jetpack komponentlərinin gücünü**, **MVVM arxitekturasının təmiz strukturunu** və **Firebase-in praktik imkanlarını** bir araya gətirərək, developer-lərə real bir tətbiqin necə qurulduğunu öyrədir.
-
----
-
 ## 📱 Əsas İmkanlar
 
 - 🔐 **Giriş və Qeydiyyat:** Firebase Authentication ilə sadə və təhlükəsiz istifadəçi idarəetməsi
