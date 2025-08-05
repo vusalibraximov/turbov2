@@ -48,5 +48,4 @@ Texnologiya sadə olmalıdır – istifadəçi üçün olduğu qədər developer
 
 
 
-> ⭐ Əgər layihə sənə faydalı oldu, GitHub-da ulduzla dəstəkləməyi unutma!
 
